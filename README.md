@@ -1,6 +1,6 @@
 # MSc-AnalyticsMethods
 
-<img src="Linear_Regression.svg" width="900" height="500">
+<img src="https://github.com/agamchug/MSc-AnalyticsMethods/blob/main/Linear_regression.svg" width="900" height="500">
 
 AnalysisWages makes use of a linear regression model to predict wages with the given data in the associated wage.txt file. The key deliverables were to consolidate the model and ascertaining the assumptions of linear regression are met. 
 
